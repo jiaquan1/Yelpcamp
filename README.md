@@ -12,14 +12,3 @@ User authorization has been implemented so to as safeguard users content.<br>
 <b>Front End: </b> Html, Css, Bootstrap <br>
 <b>Backend: </b> Nodejs, Expressjs, passport, MongoDB
 
-## Demo
-<b>Home Page</b>
-<img width="1437" alt="Screen Shot 2019-09-02 at 1 45 35 AM" src="https://user-images.githubusercontent.com/31596604/64081909-01d91a00-cd25-11e9-92d5-a82f53367b2b.png">
-<b>The Campgrounds Page</b>
-<img width="1440" alt="Screen Shot 2019-09-02 at 1 55 59 AM" src="https://user-images.githubusercontent.com/31596604/64081911-01d91a00-cd25-11e9-82a8-4947f204be35.png">
-<b>Campground Show Page</b>
-<img width="1440" alt="Screen Shot 2019-09-02 at 1 55 36 AM" src="https://user-images.githubusercontent.com/31596604/64081910-01d91a00-cd25-11e9-92c1-9c3710678b04.png">
-<b>Edit Campground Page</b>
-<img width="1440" alt="Screen Shot 2019-09-02 at 1 56 31 AM" src="https://user-images.githubusercontent.com/31596604/64081912-0271b080-cd25-11e9-977a-fb95c633ad73.png">
-<b>Edit Comment Page</b>
-<img width="1440" alt="Screen Shot 2019-09-02 at 1 56 50 AM" src="https://user-images.githubusercontent.com/31596604/64081913-0271b080-cd25-11e9-8a19-b1124182256b.png">
